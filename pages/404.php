@@ -21,6 +21,7 @@ $lyrics = [
     "I know you've had a rough time, here I've come to hijack you, hijack you.",
     "Taking off, got your hands in the air and ya feeling alright.",
     "Planes I'm hopping, cards I'm dropping, no shop can fill me up.",
+    "Fever dream high in the quiet of the night, you know that I caught it.",
 ];
 
 $rand = rand(0, count($lyrics) - 1);
