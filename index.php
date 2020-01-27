@@ -61,6 +61,7 @@ if(empty($page)){
             font-size: 24px;
             text-align: center;
             width: 100%;
+            letter-spacing: 2px;
         }
 
         .hero .icon{
