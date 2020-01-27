@@ -111,10 +111,12 @@ if(empty($page)){
 
         h1, h2, .h1, .h2{
             font-weight: 600;
+            color: #fff;
         }
 
         h3, h4, .h3, .h4{
             font-weight: 400;
+            color: #fff;
         }
     </style>
 </head>
